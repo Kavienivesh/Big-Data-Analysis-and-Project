@@ -9,9 +9,9 @@ The project investigates crime patterns in South Australia (2023–24) and their
 ## Repository Contents  
 
 ### Datasets  
-- **SEIFA 2021 dataset**
-- **Crime Data 2023-24**    
-- **Filtered Datasets** – cleaned datasets used for model training and evaluation  
+- **Suburbs and Localities, Indexes, SEIFA 2021.xlsx - SEIFA 2021 dataset**
+- **data-sa-crime-2023-24-full-fy.csv - Crime Data 2023-24**    
+- **merged_crime_seifa_sa_2023_24.csv** – cleaned datasets used for model training and evaluation  
 
 ### Notebooks  
 - Pre-processing, visualisation, and modelling notebooks  
